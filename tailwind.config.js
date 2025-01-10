@@ -10,5 +10,4 @@ export default {
     "./node_modules/fumadocs-ui/dist/**/*.js",
   ],
   presets: [createPreset()],
-  plugins: [require("@tailwindcss/typography")],
 }
