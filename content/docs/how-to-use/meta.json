@@ -1,0 +1,5 @@
+{
+  "title": "How to use",
+  "defaultOpen": true,
+  "pages": ["introduction", "configuration", "examples"]
+}
